@@ -213,7 +213,7 @@ A comprehensive expense management system with role-based access control, approv
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details
 
 ## 🆘 Support
 
